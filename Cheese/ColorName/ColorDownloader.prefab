@@ -56,7 +56,7 @@ MonoBehaviour:
     SerializationNodes: []
   _udonSharpBackingUdonBehaviour: {fileID: 7644421424196277391}
   url:
-  - url: https://rank.iplcresonite.xyz/proxy/https://raw.githubusercontent.com/cheesestudio/cheesestudio.github.io/main/ColorName.txt
+  - url: https://raw.githubusercontent.com/cheesestudio/cheesestudio.github.io/main/ColorName.txt
   - url: https://raw.github.com/cheesestudio/cheesestudio.github.io/main/ColorName.txt
   - url: https://raw.kkgithub.com/cheesestudio/cheesestudio.github.io/main/ColorName.txt
   Name: []
